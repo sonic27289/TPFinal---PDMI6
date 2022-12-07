@@ -7,7 +7,7 @@
         <StackLayout>
             <StackLayout Padding="10,10,10,10" HorizontalOptions="Center" VerticalOptions="Start">
                 <Button x:Name="btnLocalizacao" Text="Minha localização atual" Clicked="BtnLocalizacao_Clicked"/>
-                <Label Margin="0,10,0,10" Text="Produto" FontAttributes="Bold" FontSize="Large" TextColor="Gray" HorizontalTextAlignment="Center" ></Label>
+                <Label Margin="0,10,0,10" Text="Aplicação para Cadastro de Produtos" FontAttributes="Bold" FontSize="Large" TextColor="Gray" HorizontalTextAlignment="Center" ></Label>
                 <Label Margin="0,6,0,10" Text="Créditos" FontAttributes="Bold" FontSize="Small" TextColor="Gray" HorizontalTextAlignment="Center" ></Label>
                 <Label Margin="0,6,0,10" Text="Gustavo Barbosa da Silva" FontAttributes="Bold" FontSize="Small" TextColor="Gray" HorizontalTextAlignment="Center" ></Label>
                 <Label Margin="0,6,0,10" Text="CB3010627" FontAttributes="Bold" FontSize="Small" TextColor="Gray" HorizontalTextAlignment="Center" ></Label>
