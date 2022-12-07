@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TPFinal.MainPage">
+
+    <StackLayout>
+        <StackLayout>
+            <StackLayout Padding="10,10,10,10" HorizontalOptions="Center" VerticalOptions="Start">
+                <Button x:Name="btnLocalizacao" Text="Minha localização atual" Clicked="BtnLocalizacao_Clicked"/>
+                <Label Margin="0,10,0,10" Text="Produto" FontAttributes="Bold" FontSize="Large" TextColor="Gray" HorizontalTextAlignment="Center" ></Label>
+                <Label Margin="0,6,0,10" Text="Créditos" FontAttributes="Bold" FontSize="Small" TextColor="Gray" HorizontalTextAlignment="Center" ></Label>
+                <Label Margin="0,6,0,10" Text="Gustavo Barbosa da Silva" FontAttributes="Bold" FontSize="Small" TextColor="Gray" HorizontalTextAlignment="Center" ></Label>
+                <Label Margin="0,6,0,10" Text="CB3010627" FontAttributes="Bold" FontSize="Small" TextColor="Gray" HorizontalTextAlignment="Center" ></Label>
+
+
+                <StackLayout  HorizontalOptions="StartAndExpand"  Orientation="Horizontal">
+                    <Entry x:Name="txtId" Placeholder="ID" WidthRequest="50"></Entry>
+                    <Entry x:Name="txtNomeMercadoria" Placeholder="Nome da Mercadoria" WidthRequest="230"></Entry>
+                </StackLayout>
+                <Entry x:Name="txtPesoMercadoria" Placeholder="Peso da Mercadoria" WidthRequest="90"></Entry>
+                <Entry x:Name="txtNomeProdutor" Placeholder="Nome do Produtor"></Entry>
+                <Entry x:Name="txtProdutorEmail" Placeholder="E-mail do Produtor"></Entry>
+                <Entry x:Name="txtNCM" Placeholder="NCM"></Entry>
+                <StackLayout  HorizontalOptions="CenterAndExpand" Orientation="Horizontal">
+                    <Button x:Name="btnAdd" WidthRequest="160" Text="Criar" Clicked="BtnAdd_Clicked" />
+                    <Button x:Name="btnRead" WidthRequest="160" Text="Ler" Clicked="BtnRead_Clicked" />
+                </StackLayout>
+                <StackLayout HorizontalOptions="CenterAndExpand" Orientation="Horizontal">
+                    <Button x:Name="btnUpdate" WidthRequest="160" Text="Atualizar" Clicked="BtnUpdate_Clicked"/>
+                    <Button x:Name="btnDelete" WidthRequest="160" Text="Deletar" Clicked="BtnDelete_Clicked" />
+                </StackLayout>
+                <ListView x:Name="lstBooks">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <TextCell Text="{Binding NomeMercadoria }" Detail="{Binding Id}"></TextCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+
+            </StackLayout>
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>

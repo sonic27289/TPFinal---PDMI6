@@ -1,0 +1,36 @@
+E:\Documentos\ADS\671\2ª & 6ª - Prog. Mobile\projetos do github(turmas anteriores)\TPFinalDispositivosMoveis-master\TPFinalDispositivosMoveis-master\TPFinal\obj\Debug\netstandard2.0\TPFinal.csproj.AssemblyReference.cache
+E:\Documentos\ADS\671\2ª & 6ª - Prog. Mobile\projetos do github(turmas anteriores)\TPFinalDispositivosMoveis-master\TPFinalDispositivosMoveis-master\TPFinal\obj\Debug\netstandard2.0\TPFinal.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documentos\ADS\671\2ª & 6ª - Prog. Mobile\projetos do github(turmas anteriores)\TPFinalDispositivosMoveis-master\TPFinalDispositivosMoveis-master\TPFinal\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Documentos\ADS\671\2ª & 6ª - Prog. Mobile\projetos do github(turmas anteriores)\TPFinalDispositivosMoveis-master\TPFinalDispositivosMoveis-master\TPFinal\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Documentos\ADS\671\2ª & 6ª - Prog. Mobile\projetos do github(turmas anteriores)\TPFinalDispositivosMoveis-master\TPFinalDispositivosMoveis-master\TPFinal\obj\Debug\netstandard2.0\TPFinal.AssemblyInfoInputs.cache
+E:\Documentos\ADS\671\2ª & 6ª - Prog. Mobile\projetos do github(turmas anteriores)\TPFinalDispositivosMoveis-master\TPFinalDispositivosMoveis-master\TPFinal\obj\Debug\netstandard2.0\TPFinal.AssemblyInfo.cs
+E:\Documentos\ADS\671\2ª & 6ª - Prog. Mobile\projetos do github(turmas anteriores)\TPFinalDispositivosMoveis-master\TPFinalDispositivosMoveis-master\TPFinal\obj\Debug\netstandard2.0\TPFinal.csproj.CoreCompileInputs.cache
+C:\Users\Nikolas Caldeira\Documents\xamarim\TPFinalDispositivosMoveis-master\TPFinal\obj\Debug\netstandard2.0\TPFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolas Caldeira\Documents\xamarim\TPFinalDispositivosMoveis-master\TPFinal\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Nikolas Caldeira\Documents\xamarim\TPFinalDispositivosMoveis-master\TPFinal\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Nikolas Caldeira\Documents\xamarim\TPFinalDispositivosMoveis-master\TPFinal\obj\Debug\netstandard2.0\TPFinal.AssemblyInfoInputs.cache
+C:\Users\Nikolas Caldeira\Documents\xamarim\TPFinalDispositivosMoveis-master\TPFinal\obj\Debug\netstandard2.0\TPFinal.AssemblyInfo.cs
+C:\Users\Nikolas Caldeira\Documents\xamarim\TPFinalDispositivosMoveis-master\TPFinal\obj\Debug\netstandard2.0\TPFinal.csproj.CoreCompileInputs.cache
+C:\Users\Nikolas Caldeira\Documents\xamarim\TPFinalDispositivosMoveis-master\TPFinal\bin\Debug\netstandard2.0\TPFinal.deps.json
+C:\Users\Nikolas Caldeira\Documents\xamarim\TPFinalDispositivosMoveis-master\TPFinal\bin\Debug\netstandard2.0\TPFinal.dll
+C:\Users\Nikolas Caldeira\Documents\xamarim\TPFinalDispositivosMoveis-master\TPFinal\bin\Debug\netstandard2.0\ref\TPFinal.dll
+C:\Users\Nikolas Caldeira\Documents\xamarim\TPFinalDispositivosMoveis-master\TPFinal\bin\Debug\netstandard2.0\TPFinal.pdb
+C:\Users\Nikolas Caldeira\Documents\xamarim\TPFinalDispositivosMoveis-master\TPFinal\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Nikolas Caldeira\Documents\xamarim\TPFinalDispositivosMoveis-master\TPFinal\obj\Debug\netstandard2.0\TPFinal.dll
+C:\Users\Nikolas Caldeira\Documents\xamarim\TPFinalDispositivosMoveis-master\TPFinal\obj\Debug\netstandard2.0\ref\TPFinal.dll
+C:\Users\Nikolas Caldeira\Documents\xamarim\TPFinalDispositivosMoveis-master\TPFinal\obj\Debug\netstandard2.0\TPFinal.pdb
+C:\Users\Nikolas Caldeira\Documents\xamarim\TPFinalDispositivosMoveis-master\TPFinal\obj\Debug\netstandard2.0\TPFinal.csproj.AssemblyReference.cache
+E:\Projetos\TPFinal - PDMI6\TPFinal\bin\Debug\netstandard2.0\TPFinal.deps.json
+E:\Projetos\TPFinal - PDMI6\TPFinal\bin\Debug\netstandard2.0\TPFinal.dll
+E:\Projetos\TPFinal - PDMI6\TPFinal\bin\Debug\netstandard2.0\ref\TPFinal.dll
+E:\Projetos\TPFinal - PDMI6\TPFinal\bin\Debug\netstandard2.0\TPFinal.pdb
+E:\Projetos\TPFinal - PDMI6\TPFinal\obj\Debug\netstandard2.0\TPFinal.csprojAssemblyReference.cache
+E:\Projetos\TPFinal - PDMI6\TPFinal\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Projetos\TPFinal - PDMI6\TPFinal\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Projetos\TPFinal - PDMI6\TPFinal\obj\Debug\netstandard2.0\TPFinal.AssemblyInfoInputs.cache
+E:\Projetos\TPFinal - PDMI6\TPFinal\obj\Debug\netstandard2.0\TPFinal.AssemblyInfo.cs
+E:\Projetos\TPFinal - PDMI6\TPFinal\obj\Debug\netstandard2.0\TPFinal.csproj.CoreCompileInputs.cache
+E:\Projetos\TPFinal - PDMI6\TPFinal\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Projetos\TPFinal - PDMI6\TPFinal\obj\Debug\netstandard2.0\TPFinal.dll
+E:\Projetos\TPFinal - PDMI6\TPFinal\obj\Debug\netstandard2.0\ref\TPFinal.dll
+E:\Projetos\TPFinal - PDMI6\TPFinal\obj\Debug\netstandard2.0\TPFinal.pdb
